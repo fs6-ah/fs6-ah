@@ -7,4 +7,4 @@ Hi i am FS6 He's here. on instagram fs6ah, Follow me
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fs6-ah&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/fs6-ah)  
-<img src="https://k.top4top.io/p_1878lrbob1.png" width="300" height="600">
+<img src="https://k.top4top.io/p_1878lrbob1.png" width="600" height="300">
