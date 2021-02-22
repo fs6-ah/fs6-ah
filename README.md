@@ -7,7 +7,7 @@ Hi i am FS6 He's here. on instagram fs6ah, Follow me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fs6-ah)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fs6-ah&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fs6-ah&theme=radical&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/fs6-ah)  
 
