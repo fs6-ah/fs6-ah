@@ -1,5 +1,5 @@
 Hi i am FS6 He's here. on instagram fs6ah, Follow me
-
+=================
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fs6-ah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fs6ah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/archlinux.svg' alt='archlinux' height='40'>](https://fs6.fun)  
 
